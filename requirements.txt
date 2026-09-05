@@ -1,0 +1,41 @@
+# AI Line Core Dependencies
+
+# Core AI/ML
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Device Communication
+pyserial>=3.5
+pyusb>=1.2.1
+bleak>=0.21.0  # Bluetooth Low Energy
+grpcio>=1.53.0
+
+# Web & API
+fastapi>=0.100.0
+uvicorn>=0.23.0
+requests>=2.31.0
+
+# Database
+sqlalchemy>=2.0.0
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.1.0
+
+# Logging & Monitoring
+python-json-logger>=2.0.7
+prometheus-client>=0.17.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.7.0
+flake8>=6.0.0
+mypy>=1.4.0
