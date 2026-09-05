@@ -1,0 +1,19 @@
+Termux integration
+==================
+
+Generated: Sat Sep  5 00:56:22 PDT 2026
+Termux HOME: /data/data/com.termux/files/home
+Termux prefix: /data/data/com.termux/files/usr
+
+Termux:X11 executable:
+/data/data/com.termux/files/usr/bin/termux-x11
+
+Termux:X11 package:
+termux-x11-nightly/x11,now 1.03.01-6 all [installed]
+x11-repo/stable,now 8.4-1 all [installed]
+
+Architecture:
+aarch64
+
+Kernel:
+Linux localhost 6.1.162-android14-11-g2ec90535fa34-ab15810641 #1 SMP PREEMPT Wed Jul  8 11:53:29 UTC 2026 aarch64 Android
